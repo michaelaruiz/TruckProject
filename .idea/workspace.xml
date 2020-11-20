@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51c16ad5-38bf-478e-8867-54cb78eab4bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1kU22j6reasjAdInycqiz5pgppF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FinalTruckProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51c16ad5-38bf-478e-8867-54cb78eab4bf" name="Default Changelist" comment="" />
+      <created>1605740644483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605740644483</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="207" y="23" width="1024" height="823" key="#Project_Structure" timestamp="1605853728375">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="207" y="23" key="#Project_Structure/0.23.1440.814@0.23.1440.814" timestamp="1605853728375" />
+    <state x="207" y="23" width="1024" height="823" key="#Project_Structure/0.23.1440.823@0.23.1440.823" timestamp="1605821765980" />
+    <state x="184" y="79" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605853558959">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="184" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.814@0.23.1440.814" timestamp="1605853558959" />
+    <state x="184" y="80" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.823@0.23.1440.823" timestamp="1605821625577" />
+    <state x="184" y="80" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.827@0.23.1440.827" timestamp="1605822813202" />
+    <state x="367" y="227" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605740669984">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="367" y="227" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.811@0.23.1440.811" timestamp="1605740669984" />
+    <state x="220" y="80" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1605821901796">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="220" y="80" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.23.1440.825@0.23.1440.825" timestamp="1605821901796" />
+    <state x="593" y="334" key="Github.ShareDialog" timestamp="1605853273630">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="593" y="334" key="Github.ShareDialog/0.23.1440.814@0.23.1440.814" timestamp="1605853273630" />
+    <state width="1112" height="213" key="GridCell.Tab.0.bottom" timestamp="1605822976908">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1112" height="213" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1605822976908" />
+    <state width="1112" height="213" key="GridCell.Tab.0.center" timestamp="1605822976907">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1112" height="213" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1605822976907" />
+    <state width="1112" height="213" key="GridCell.Tab.0.left" timestamp="1605822976907">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1112" height="213" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1605822976907" />
+    <state width="1112" height="213" key="GridCell.Tab.0.right" timestamp="1605822976908">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1112" height="213" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1605822976908" />
+    <state x="337" y="185" key="IDE.errors.dialog" timestamp="1605822948602">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="337" y="185" key="IDE.errors.dialog/0.23.1440.826@0.23.1440.826" timestamp="1605822948602" />
+    <state x="114" y="23" width="1024" height="825" key="SettingsEditor" timestamp="1605853716710">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="114" y="23" key="SettingsEditor/0.23.1440.814@0.23.1440.814" timestamp="1605853716710" />
+    <state x="114" y="23" width="1024" height="825" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1605821862922" />
+    <state x="0" y="41" key="new project wizard" timestamp="1605822001073">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="0" y="41" key="new project wizard/0.23.1440.825@0.23.1440.825" timestamp="1605822001073" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
